@@ -44,7 +44,7 @@ To run the code, we have to run the *ArgsMain.java* file using the given below j
         "l, p#, d*"
 
 Now to run the tests, we have to run the following command from the root of the folder:
-* *'java -cp "lib/junit-4.13.jar:lib/hamcrest-core-1.3.jar:build/jar/args.jar"* *./test/javaargs/cleanercode/args/ArgsTest.java [name of the test function]'*
+* *'java -cp "lib/junit-4.13.jar:lib/hamcrest-core-1.3.jar:build/jar/args.jar"* *./test/marshaler/cleanercode/args/ArgsTest.java [name of the test function]'*
 
 ### Implementation:
 -  The variables declared in the classes are arranged alphabetically, it helps the programmer to go through the code in sequence.
